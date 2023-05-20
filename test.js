@@ -1,6 +1,6 @@
 const { readGrammar, cyk } = require('./cyk.js')
 
-const grammar = readGrammar('gramatica.txt')
+const grammar = readGrammar('grammar.txt')
 
 // Array containing all inputs to be tested
 const inputArray =
